@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Rushing Population Ecology Lab</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>Passerina buntings</title>
+      <link>/project/passerina/</link>
+      <pubDate>Thu, 19 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/project/passerina/</guid>
+      <description>&lt;p&gt;Species in the genus &lt;em&gt;Passerina&lt;/em&gt; are among the most charismatic birds in North America. They are also ideally suited for studying the full-annual-cycle ecology of migratory songbirds because several species can be efficiently captured and monitored at bird feeders throughout the year. For the past several years, I have worked with colleagues from the Smithsonian Migratory Bird Center and the Cornell Lab of Ornithology to better understand the migration ecology, migratory connectivity, and winter distrubution of southeastern Painted Buntings (&lt;em&gt;Passerina ciris&lt;/em&gt;) across their breeding range. To date, we have deployed nearly 300 light-level geolocators on buntings at 6 study sites spanning the latitudinal distribution of this population (northern Florida to southern North Carolina). In the spring of 2019, we established a network of RFID-enabled bird feeders to collect encounter data from buntings at each of our study sites. These data will provide critical information about seasonal survival of Painted Buntings, as well as how survival varies spatially and seasonally.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-photo-by-kim-savides&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/media/lazb.jpg&#34; data-caption=&#34;Photo by Kim Savides&#34;&gt;
+
+
+  &lt;img src=&#34;/media/lazb.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Photo by Kim Savides
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Also starting in the spring of 2019, we expanded this research to include Lazuli Buntings (&lt;em&gt;Passerina amoeba&lt;/em&gt;) breeding in and around Logan, UT. This project uses similar tracking and RFID technologies to quantify migratory connectivity, molting/winter grounds, and survival of Lazuli Buntings along a large elevational gradient. During the summer of 2020, our 18 RFID feeders recorded over 300,000 visits by about 250 banded birds! These data are allowing us to quantify arrival and departure phenology of these populations with a high degree of precision and in the future will allow us to estimate survival and density.&lt;/p&gt;
+&lt;p&gt;Eventually we hope the data collected as part of these projects will provide insights into how breeding and non-breeding processes influence vital rates and population dynamics and whether life-history theory provides a cogent framework for understanding full annual cycle limitation in migratory birds. Stay tuned for exciting results coming soon!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Black Rosy-finches</title>
+      <link>/project/blrf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/blrf/</guid>
+      <description>&lt;p&gt;Black Rosy-finch (&lt;em&gt;Leucosticte atrata&lt;/em&gt;) are one of the least understood birds in North America. Climate change threatens their high-elevation breeding habitat and very little is known about their life history, making them a high priority for conservation. The U.S. Fish and Wildlife Service, Partners in Flight, Utah Division of Wildlife Resources, and U.S. Forest Service identify Black Rosy-finch as a species of conservation concern. A significant hurdle in understanding threats to the Black Rosy-finch and its future well-being is an absence of the most basic life history and demography information. The lack of data limits effective conservation actions critical to ensuring that populations can be sustained, even in the face of threats like climate change. The &lt;strong&gt;Utah Black Rosy-finch Study&lt;/strong&gt; was developed to fill these data gaps, make recommendations based on the data, and conserve the Black Rosy-finch. The project is a voluntary partnership between Utah State University, Tracy Aviary, Wild Utah Project, Utah Division of Wildlife Resources, Department of Defense, and the U.S. Forest Service.&lt;/p&gt;
+&lt;p&gt;The goal of this project is to understand the life history requirements and demography of Black Rosy-finch in Utah to ensure this species persists into the future, while providing data to managers and practitioners through the specie’s range.&lt;/p&gt;
+&lt;h2 id=&#34;tracking-rosy-finches-using-rfid&#34;&gt;Tracking Rosy-finches using RFID&lt;/h2&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-pit-tagged-black-rosy-finch-photo-courtesy-of-kim-savides&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/media/blrf_band.png&#34; data-caption=&#34;PIT tagged Black Rosy-finch. Photo courtesy of Kim Savides&#34;&gt;
+
+
+  &lt;img src=&#34;/media/blrf_band.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    PIT tagged Black Rosy-finch. Photo courtesy of Kim Savides
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Since 2019, we have been using RFID-enabled bird feeders to collect encounter data of wintering Black Rosy-finches in northern Utah. The study focuses on bird feeders maintained at ski areas, nature centers, and private residences in northern Utah. Mountain sites provide food for wintering finches, as well as accessible places for data collection. During winter of 2019/2020, we recorded nearly 12,000 visits by 91 tagged Black and Gray-crowned Rosy-finches, including three Black Rosy-finches that were originally banded during the pilot 2019 season. Preliminary analysis of these data suggest that these sites may be used by multiple populations of finches, including over-wintering residents and spring migrants passing through on their way to the breeding grounds. As of November 2020, at least 5 banded birds have been re-sighted at our study sites and we will soon be recording these birds at the RFID feeders.&lt;/p&gt;
+&lt;p&gt;Over time, these data will allow us to estimate important demographic parameters, including survival, migratory phenology, winter site fidelity, and movement rates. When combined with counts of Rosy-finches across their winter range, these data will also provided critical information about the distribution and abundance of Rosy-finches.&lt;/p&gt;
+&lt;h2 id=&#34;community-science-counts&#34;&gt;Community science counts&lt;/h2&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/media/blrf_logo.png&#34; &gt;
+
+
+  &lt;img src=&#34;/media/blrf_logo.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Maintaining a network of RFID feeders in the harsh conditions that Rosy-finches inhabit during the winter prevents widespread adoption of this method across the entire range. To supplement data from the RFID feeders and to be better understand the distribution and habitat requirements of wintering Rosy-finches, we initiated a community science project in 2019 that&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Climate change</title>
+      <link>/project/climatechange/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/climatechange/</guid>
+      <description>&lt;p&gt;I have several on going projects focused on developing quantitative methods to measure the impacts of climate change on the distributions of North American birds and to incorporate this information into conservation decisions made by federal agencies. A major aim of this research is using data from the North American Breeding Bird Survey to create multi-species indices of climate-induced range shifts. This approach uses dynamic occupancy models to estimate range-wide occupancy and extinction/colonization rates for individual species. By accounting for both non-equilibrium dynamics and imperfect detection, these models provide robust estimates of the velocity, magnitude, and direction of range shifts that have occurred in recent decades. Results from individual species can be combined into composite metrics, which allow stronger inferences about climate change impacts and can be used to test hypotheses about the traits that influence sensitivity to climate change.&lt;/p&gt;
+&lt;p&gt;Many federal agencies are tasked with protecting North America’s avian diversity and these agencies must make sound decisions about when and where to invest resources to achieve their legal mandates. Climate change adds a major source of uncertainty to these decisions because the places that are important for conservation now may differ from the critical locations in the future. Along with my work on modeling climate-driven range shifts, I am interested in incorporating climate change into management decisions and research prioritization to improve migratory bird conservation in the face of climate change.&lt;/p&gt;
+&lt;h3 id=&#34;relevant-publications-pdf-available-upon-request&#34;&gt;Relevant publications (pdf available upon request):&lt;/h3&gt;
+&lt;p&gt;Rushing, C.S., Royle, J.A., Ziolkowski, D., Pardieck, K., (2019). Estimating spatially and temporally complex range dynamics when detection is imperfect. &lt;em&gt;Scientific Reports&lt;/em&gt; 9(1), 1-9.&lt;/p&gt;
+&lt;p&gt;Rushing, C. S., Royle, J. A., Ziolkowski, D. J., &amp;amp; Pardieck, K. L. (2020). Migratory behavior and winter geography drive differential range shifts of eastern birds in response to recent climate change. &lt;em&gt;Proceedings of the National Academy of Sciences&lt;/em&gt; 117(23), 12897-12903.&lt;/p&gt;
+&lt;p&gt;Rushing, C. S., Rubenstein, M., Lyons, J. E., &amp;amp; Runge, M. C. (2020). Using value of information to prioritize research needs for migratory bird management under climate change: a case study using federal land acquisition in the United States. &lt;em&gt;Biological Reviews&lt;/em&gt; 95(4), 1109-1130.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Full annual cycle models</title>
+      <link>/project/fac/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/fac/</guid>
+      <description>&lt;p&gt;Historically, efforts to identify limiting factors for migratory species have been hindered by the scale of annual migration movements, missing information about the geographic linkages between breeding and non-breeding populations (i.e., migratory connectivity), and the lack of analytical methods for linking population dynamics to demographic processes operating across the entire annual cycle. A major theme of my research focuses on application technological advances and developing ‘full-annual-cycle’ population models to overcome these challenges.&lt;/p&gt;
+&lt;p&gt;One of the major challenges to understanding limiting factors of migratory birds has long been the scientists have not known where specific populations go after they leave the breeding or wintering grounds. Information about migration routes, winter distribution, and migration phenology is currently unavailable for many species because, until recently, over 40% of migratory bird species were too small track using even the most advanced satellite tags. A major focus of my research has been using new technologies, including stable isotopes (Rushing et al. 2014 Ecol Apps; Rushing et al. 2017 Ecol &amp;amp; Evol) and miniaturized tracking tags, to better understand the migratory connectivity of small songbirds (Cohen et al. 2018 MEE). Current work on this topic includes two projects that are using light-level geolocators to determine the migratory connectivity and non-breeding distribution of &lt;a href=&#34;project/passerina.md&#34;&gt;&lt;em&gt;Passerina&lt;/em&gt; buntings&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In addition to quantifying patterns of migratory connectivity, much of my research focuses on developing &amp;lsquo;full-annual-cycle&amp;rsquo; models to link population dynamics of migratory birds to demographic and environmental processes occurring through the year. Full-annual-cycle models include a broad range of modeling frameworks (Hosttetler et al. 2015) and I regularly use several of these methods in my research, including Bayesian hierarchical models and integrated population models (IPMs). Some of my work on full-annual-cycle models has focused on exploring how breeding vs. winter habitat contribute to spatial variation in population trajectories in Wood Thrush (Rushing et al. 2016b Proc B), estimating seasonal survival rates by integrating breeding and winter capture-recapture data (Rushing 2019 Ecol &amp;amp; Evol), and using IPMs to link changes in Wood Thrush breeding abundance to reproduction, immigration and seasonal survival (Rushing et al. 2017b Ecology).&lt;/p&gt;
+&lt;p&gt;Given the importance of full-annual-cycle models for advancing our understanding of the ecology of migratory birds, continued work on developing and expanding these frameworks is the central aim of my current research. Ongoing projects on this topic include: improving methods to estimate fall and spring migration survival and their relation to climate, habitat, and density; developing population viability analyses that can used to predict the effects of breeding vs. non-breeding management options; and developing a theoretical framework for predicting when and why populations should be breeding vs. non-breeding limited. In the coming years, our projects on migratory connectivity and variation in life-history strategies of &lt;em&gt;Passerina&lt;/em&gt; buntings will produce data for testing these theoretical predictions. Ultimately, it is my hope that these efforts can be used to improve management and conservation outcomes for the many species of declining migratory birds across the globe.&lt;/p&gt;
+&lt;h3 id=&#34;relevant-publications-pdf-available-upon-request&#34;&gt;Relevant publications (pdf available upon request):&lt;/h3&gt;
+&lt;p&gt;Rushing, C. S. 2019. Estimability of migration survival rates from integrated breeding and winter capture–recapture data. &lt;em&gt;Ecology and Evolution&lt;/em&gt;, 9(2), 849-858.&lt;/p&gt;
+&lt;p&gt;Rushing, C.S., Hostetler, J.A., Sillett, T.S., Marra, P.P., Rotenberg, J.A. and Ryder, T.B., 2017. Spatial and temporal drivers of avian population dynamics across the annual cycle. &lt;em&gt;Ecology&lt;/em&gt;, 98(11), 2837-2850.&lt;/p&gt;
+&lt;p&gt;Rushing, C.S., Ryder, T.B. and Marra, P.P., 2016. Quantifying drivers of population dynamics for a migratory bird throughout the annual cycle. &lt;em&gt;Proc. R. Soc. B&lt;/em&gt;, 283(1823), 20152846.&lt;/p&gt;
+&lt;p&gt;Rushing, C.S., Ryder, T.B., Saracco, J.F. and Marra, P.P., 2014. Assessing migratory connectivity for a long‐distance migratory bird using multiple intrinsic markers. &lt;em&gt;Ecological Applications&lt;/em&gt;, 24(3), 445-456.&lt;/p&gt;
+&lt;p&gt;Cohen, E.B., Hostetler, J.A., Hallworth, M.T., Rushing, C.S., Sillett, T.S. and Marra, P.P., 2018. Quantifying the strength of migratory connectivity. &lt;em&gt;Methods in Ecology and Evolution&lt;/em&gt;, 9(3), 513-524.&lt;/p&gt;
+&lt;p&gt;Cohen, E.B., Rushing, C.R., Moore, F.R., Hallworth, M.T., Hostetler, J.A., Ramirez, M.G. and Marra, P.P., 2018. The strength of migratory connectivity for birds en route to breeding through the Gulf of Mexico. &lt;em&gt;Ecography&lt;/em&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Long-distance dispersal</title>
+      <link>/project/dispersal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/dispersal/</guid>
+      <description>&lt;p&gt;Immigration and emigration (collectively termed &lt;em&gt;dispersal&lt;/em&gt;) are key demographic processes influencing both individual fitness and population dynamics. Many dispersal movements happen at spatial scales much larger than the boundaries of typical study areas but due to the challenges of tracking dispersing individuals, the causes and consequences of these movements are poorly understood. A primary focus of my research is developing analytical tools to study the individual- and population-level consequences of long-distance dispersal. Much of my research on long-distance dispersal has focused on using stable isotopes, particularly hydrogen, to detect long-distance dispersal movements and quantify how they influence individual fitness. More recently, my research on this topic has focused on the intersection between habitat selection, dispersal distance, and population dynamics.&lt;/p&gt;
+&lt;h3 id=&#34;relevant-publications-pdf-available-upon-request&#34;&gt;Relevant publications (pdf available upon request):&lt;/h3&gt;
+&lt;p&gt;Rushing, C.S., Marra, P.P. and Dudash, M.R., 2016. Winter habitat quality but not long‐distance dispersal influences apparent reproductive success in a migratory bird. &lt;em&gt;Ecology&lt;/em&gt;, 97(5), 1218-1227.&lt;/p&gt;
+&lt;p&gt;Rushing, C.S., Dudash, M.R., Studds, C.E. and Marra, P.P., 2015. Annual variation in long‐distance dispersal driven by breeding and non‐breeding season climatic conditions in a migratory bird. &lt;em&gt;Ecography&lt;/em&gt;, 38(10), 1006-1014.&lt;/p&gt;
+&lt;p&gt;Tesson, S.V., Okamura, B., Dudaniec, R.Y., Vyverman, W., Löndahl, J., Rushing, C., Valentini, A. and Green, A.J., 2015. Integrating microorganism and macroorganism dispersal: modes, techniques and challenges with particular focus on co-dispersal. &lt;em&gt;Écoscience&lt;/em&gt;, 22(2-4), 109-124.&lt;/p&gt;
+&lt;p&gt;Rushing, C.S., Dudash, M.R. and Marra, P.P., 2015. Habitat features and long‐distance dispersal modify the use of social information by a long‐distance migratory bird. &lt;em&gt;Journal of Animal Ecology&lt;/em&gt;, 84(6), 1469-1479.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pelicans</title>
+      <link>/project/pelicans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/pelicans/</guid>
+      <description>&lt;p&gt;The Great Salt Lake is home to the largest to third largest American white pelican colony west of the Rocky
+Mountains. This colony breeds on Gunnison Island, a small island in the
+hypersaline northern arm of the lake. This part of the lake is devoid of fresh water
+and fish, and breeding white pelicans must travel approximately 50km to the nearest foraging
+area to gather food for their chicks.&lt;/p&gt;
+&lt;p&gt;The Gunnison pelicans have a long history of study, with breeding colony counts beginning as early as
+1963, intensive study of nesting behavior by USU graduate and prominent ornithologist Fritz
+Knopf in the 1970s, and fledgling banding efforts by the Utah Department of Wildlife Resources
+(UDWR) beginning in 2009. The UDWR also began deploying GPS transmitters on adult white
+pelicans in 2015, and are in the process of expanding pelican movement data collection with
+construction of a new Motus network around the Great Salt Lake.&lt;/p&gt;
+&lt;p&gt;We are currently collaborating with UDWR on several projects to better understand the demography, movement, and dynamics of this regionally important colony of white pelicans. This work is being led by PhD student &lt;a href=&#34;authors/AVanTatenhove.md&#34;&gt;Aimee Van Tatenhove&lt;/a&gt;, who is supported by an endowed fellowship gifted to USU by Fritz Knopf.&lt;/p&gt;
+&lt;h1 id=&#34;current-american-white-pelican-projects-at-the-rushing-lab&#34;&gt;Current American white pelican projects at the Rushing Lab&lt;/h1&gt;
+&lt;h2 id=&#34;habitat-selection-and-niche-switching-between-summer-and-winter-ranges&#34;&gt;Habitat selection and niche switching between summer and winter ranges&lt;/h2&gt;
+&lt;p&gt;Using GPS telemetry data from birds tagged around the Great Salt Lake, this project aims to
+identify important white pelican habitat on the breeding and wintering grounds, and assess
+niche breadth and niche-switching behavior to explore potential pelican response to climate
+change.&lt;/p&gt;
+&lt;h2 id=&#34;historical-spatio-temporal-survival-and-migratory-connectivity&#34;&gt;Historical spatio-temporal survival and migratory connectivity&lt;/h2&gt;
+&lt;p&gt;Using long-term banding data from the USGS Bird Banding Laboratory, this research will estimate white
+pelican survival over the past 60 years and explore survival pre- and post-organochloride
+pesticide bans. We will also assess migratory connectivity between breeding and wintering
+regions, to inform management practices at a continental scale.&lt;/p&gt;
+&lt;h2 id=&#34;airspace-use-through-radar-detections-and-gps-telemetry&#34;&gt;Airspace use through radar detections and GPS telemetry&lt;/h2&gt;
+&lt;p&gt;Using radar and GPS telemetry data, this project is exploring the ability of detect and identify pelicans using Nexrad radar images from
+around the Great Salt Lake. We are currently testing the viability of radar to quantify white pelican airspace use
+and phenology without GPS transmitter deployment.&lt;/p&gt;
+&lt;h2 id=&#34;environmental-drivers-of-historical-utah-breeding-colony-counts&#34;&gt;Environmental drivers of historical Utah breeding colony counts&lt;/h2&gt;
+&lt;p&gt;This research will identify potential drivers of annual white pelican colony counts on Gunnison Island, including temperature, precipitation, and Great Salt
+Lake water levels, to inform management decisions and suggest important future population drivers of the Gunnison
+breeding colony.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RFID</title>
+      <link>/project/rfid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/rfid/</guid>
+      <description>&lt;p&gt;Traditionally, studying individual birds has been a labor-intensive process. Individuals must be captured, given unique marks (e.g., metal and colored plastic leg bands), and then re-captured or re-sighted during future study periods. Re-capturing and re-sighting efforts, in particular, tend to be expensive, time-consumiing, and often have low detection probabilities. A growing part our lab&amp;rsquo;s research is focused on the use of Radio Frequency Identification (RFID) technology to overcome these obstacles and advance our understanding of the demography and behavior of migratory birds.&lt;/p&gt;
+&lt;h4 id=&#34;what-is-rfid&#34;&gt;What is RFID?&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Radio-frequency_identification&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RFID&lt;/a&gt; is a widespread technology that uses electromagnetic fields to identify coded tags that are attached to individual organisms or objects. It is the exact same technology that is used to chip pets and record times in a marathon. RFID networks consist of four components: 1) a transponder tag attached to each individual, 2) an antenna for receiving data from each transponder tag, 3) a tag-reading device that interprets and logs the data from each tag, and 4) a power source. In most wildlife studies that use RFID, the reader, antenna, and power source are placed in a location where individuals from the study population will reliably visit. Individuals are marked with passive integrated transponder (PIT) tags, which provide a unique ID code for each individual. When marked individuals are within range of the antenna, the reader logs the ID and time of the visit.&lt;/p&gt;
+&lt;h4 id=&#34;how-do-you-use-rfid-to-study-birds&#34;&gt;How do you use RFID to study birds?&lt;/h4&gt;
+&lt;p&gt;The RFID networks used in most ornithogical research have relatively small read ranges (~2-6cm). As a result, use of this technology requires placing the antenna and reader in a location that birds are likely to visit, including nest boxes and bird feeders. For our research, we have specially chosen several species that regularly visit bird feeders during either their breeding or winter period. This allows us to locate the RFID antennas on the feeder perches, ensuring that individuals will be within a few centimeters of the antenna while they eat. The reader and a small battery are housed under or next to the feeder in a waterproof box and a solar panel is attached to the feeder stand to provide continuous power.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-rfid-feeder&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/media/feeder.jpg&#34; data-caption=&#34;RFID feeder&#34;&gt;
+
+
+  &lt;img src=&#34;/media/feeder.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    RFID feeder
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Because PIT tags need no battery, they are small and widely available as bird bands. Once the RFID network is installed on a feeder, we band individual birds using that feeder, giving each bird an aluminum USGS band and a PIT band. Both bands have a unique numeric code (physically etched into the metal band, stored as part of the transponder in the PIT band), allowing us to individually identify each bird when we encounter it at future points in time. &lt;strong&gt;Please be aware that all banding activities, including capturing birds and attaching auxillary leg bands, are carried out by trained professionals with all state and federal permits&lt;/strong&gt;. After a bird is banded, it is released unharmed and the reader will log every subsequent visit that individual makes to the feeder. These &amp;ldquo;encounter histories&amp;rdquo; provide data that can be used to estimate ecological parameters that are central to our research questions (e.g., survival probability, arrival/departure dates, activity levels, etc.) using well-established statistical models.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-pit-tagged-lazuli-bunting-photo-by-kim-savides&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/media/rfid_lazb.jpg&#34; data-caption=&#34;PIT tagged Lazuli Bunting. Photo by Kim Savides&#34;&gt;
+
+
+  &lt;img src=&#34;/media/rfid_lazb.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    PIT tagged Lazuli Bunting. Photo by Kim Savides
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;rfid-projects-in-our-lab&#34;&gt;RFID projects in our lab&lt;/h2&gt;
+&lt;h4 id=&#34;painted-buntings&#34;&gt;Painted Buntings&lt;/h4&gt;
+&lt;p&gt;In the summer of 2019, we installed RFID feeders at several of long-term Painted Bunting (&lt;em&gt;Passerina ciris&lt;/em&gt;) field sites in Florida, Georgia, South Carolina, and North Carolina. Over the next two summers, these feeders logged nearly 100,000 unique visits by about 150 tagged individuals. In the future, we plan to expand this feeder network within and beyond these sites to better understand survival, phenology, and density of Painted Buntings within the eastern population.&lt;/p&gt;
+&lt;h4 id=&#34;lazuli-buntings&#34;&gt;Lazuli Buntings&lt;/h4&gt;
+&lt;p&gt;Like Painted Buntings, the closely-related Lazuli Bunting (&lt;em&gt;Passerina amoena&lt;/em&gt;) is one of the most charismatic migratory birds in the American West. In autumn, individuals migrate to northern Mexico where they molt during monsoonal rains before moving further south for the winter. Lazuli Buntings are also one of the most common migratory songbirds breeding in Cache Valley, Utah and can be found across a wide elevational range, from the valley floor (~1400m) to the high peaks of the Bear River Range (~3000m). During the spring and summer of 2019, we established a network of RFID feeders at 3 sites that span this elevational gradient. During the summers of 2019 and 2020, these feeders recorded nearly 400,000 unique visits by several hundred banded buntings. We are currently using these data to estimate elevational variation in the migration phenology of male and female buntings.&lt;/p&gt;
+&lt;h4 id=&#34;black-rosy-finches&#34;&gt;Black Rosy-finches&lt;/h4&gt;
+&lt;p&gt;Black Rosy-finches (&lt;em&gt;Leucosticte atrata&lt;/em&gt;) are one of three species of Rosy-finch in North America. Utah is at the heart of the Black Rosy-finch distribution. Due to their small range and inaccessible breeding habitat, Black Rosy-finches are one of the least-studied birds in North America. As such, the future well-being of Rosy-finches is hampered by an absence of even basic information about the demography, distribution, and movement of this species. Filling crucial data gaps about Black Rosy-finches distribution and abundance is especially critical to ensure that their populations can be sustained in the face of habitat degradation and climate change.&lt;/p&gt;
+&lt;p&gt;In winter, flocks of Black Rosy-finches and Gray-crowned Rosy-finches (&lt;em&gt;L. tephrocotis&lt;/em&gt;) visit bird feeders throughout Utah&amp;rsquo;s mountains, making them amenable to study using RFID technology. Bird feeders maintained at ski areas and mountain homes provide important sources of food for wintering Rosy-finches as well as convenient study sites. To fill the data gaps that currently limit effective management of Black Rosy-finch populations, a voluntary public/private partnership of biologists developed the Utah Black Rosy-finch Study. Over the past two winters, we have banded almost two hundred rosy-finches and feeders have logged tens of thousands of visits. These preliminary data are already providing exciting insights into the ecology of these species, including documenting one Gray-crowned Rosy-finch that visited two feeders separately by nearly 50km in a single day! For more information about this research, see the &lt;a href=&#34;project/blrf.md&#34;&gt;Black Rosy-finch&lt;/a&gt; project page.&lt;/p&gt;
+&lt;h2 id=&#34;further-information&#34;&gt;Further information&lt;/h2&gt;
+&lt;p&gt;Bonter, D. N. &amp;amp; Bridge, E. S. 2011. Applications of radio frequency identification (RFID) in ornithological research: A review. &lt;em&gt;Journal of Field Ornithology&lt;/em&gt; 82, 1–10.&lt;/p&gt;
+&lt;p&gt;Bridge, E. S. &amp;amp; Bonter, D. N. 2011. A low-cost radio frequency identification device for ornithological research. &lt;em&gt;Journal of Field Ornithology&lt;/em&gt; 82, 52–59.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

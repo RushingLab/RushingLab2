@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Black rosy-finch | Rushing Population Ecology Lab</title>
+    <link>/tag/black-rosy-finch/</link>
+      <atom:link href="/tag/black-rosy-finch/index.xml" rel="self" type="application/rss+xml" />
+    <description>Black rosy-finch</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Black rosy-finch</title>
+      <link>/tag/black-rosy-finch/</link>
+    </image>
+    
+    <item>
+      <title>Black Rosy-finches</title>
+      <link>/project/blrf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/blrf/</guid>
+      <description>&lt;p&gt;Black Rosy-finch (&lt;em&gt;Leucosticte atrata&lt;/em&gt;) are one of the least understood birds in North America. Climate change threatens their high-elevation breeding habitat and very little is known about their life history, making them a high priority for conservation. The U.S. Fish and Wildlife Service, Partners in Flight, Utah Division of Wildlife Resources, and U.S. Forest Service identify Black Rosy-finch as a species of conservation concern. A significant hurdle in understanding threats to the Black Rosy-finch and its future well-being is an absence of the most basic life history and demography information. The lack of data limits effective conservation actions critical to ensuring that populations can be sustained, even in the face of threats like climate change. The &lt;strong&gt;Utah Black Rosy-finch Study&lt;/strong&gt; was developed to fill these data gaps, make recommendations based on the data, and conserve the Black Rosy-finch. The project is a voluntary partnership between Utah State University, Tracy Aviary, Wild Utah Project, Utah Division of Wildlife Resources, Department of Defense, and the U.S. Forest Service.&lt;/p&gt;
+&lt;p&gt;The goal of this project is to understand the life history requirements and demography of Black Rosy-finch in Utah to ensure this species persists into the future, while providing data to managers and practitioners through the specie’s range.&lt;/p&gt;
+&lt;h2 id=&#34;tracking-rosy-finches-using-rfid&#34;&gt;Tracking Rosy-finches using RFID&lt;/h2&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-pit-tagged-black-rosy-finch-photo-courtesy-of-kim-savides&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/media/blrf_band.png&#34; data-caption=&#34;PIT tagged Black Rosy-finch. Photo courtesy of Kim Savides&#34;&gt;
+
+
+  &lt;img src=&#34;/media/blrf_band.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    PIT tagged Black Rosy-finch. Photo courtesy of Kim Savides
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Since 2019, we have been using RFID-enabled bird feeders to collect encounter data of wintering Black Rosy-finches in northern Utah. The study focuses on bird feeders maintained at ski areas, nature centers, and private residences in northern Utah. Mountain sites provide food for wintering finches, as well as accessible places for data collection. During winter of 2019/2020, we recorded nearly 12,000 visits by 91 tagged Black and Gray-crowned Rosy-finches, including three Black Rosy-finches that were originally banded during the pilot 2019 season. Preliminary analysis of these data suggest that these sites may be used by multiple populations of finches, including over-wintering residents and spring migrants passing through on their way to the breeding grounds. As of November 2020, at least 5 banded birds have been re-sighted at our study sites and we will soon be recording these birds at the RFID feeders.&lt;/p&gt;
+&lt;p&gt;Over time, these data will allow us to estimate important demographic parameters, including survival, migratory phenology, winter site fidelity, and movement rates. When combined with counts of Rosy-finches across their winter range, these data will also provided critical information about the distribution and abundance of Rosy-finches.&lt;/p&gt;
+&lt;h2 id=&#34;community-science-counts&#34;&gt;Community science counts&lt;/h2&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/media/blrf_logo.png&#34; &gt;
+
+
+  &lt;img src=&#34;/media/blrf_logo.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Maintaining a network of RFID feeders in the harsh conditions that Rosy-finches inhabit during the winter prevents widespread adoption of this method across the entire range. To supplement data from the RFID feeders and to be better understand the distribution and habitat requirements of wintering Rosy-finches, we initiated a community science project in 2019 that&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RFID</title>
+      <link>/project/rfid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/rfid/</guid>
+      <description>&lt;p&gt;Traditionally, studying individual birds has been a labor-intensive process. Individuals must be captured, given unique marks (e.g., metal and colored plastic leg bands), and then re-captured or re-sighted during future study periods. Re-capturing and re-sighting efforts, in particular, tend to be expensive, time-consumiing, and often have low detection probabilities. A growing part our lab&amp;rsquo;s research is focused on the use of Radio Frequency Identification (RFID) technology to overcome these obstacles and advance our understanding of the demography and behavior of migratory birds.&lt;/p&gt;
+&lt;h4 id=&#34;what-is-rfid&#34;&gt;What is RFID?&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Radio-frequency_identification&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RFID&lt;/a&gt; is a widespread technology that uses electromagnetic fields to identify coded tags that are attached to individual organisms or objects. It is the exact same technology that is used to chip pets and record times in a marathon. RFID networks consist of four components: 1) a transponder tag attached to each individual, 2) an antenna for receiving data from each transponder tag, 3) a tag-reading device that interprets and logs the data from each tag, and 4) a power source. In most wildlife studies that use RFID, the reader, antenna, and power source are placed in a location where individuals from the study population will reliably visit. Individuals are marked with passive integrated transponder (PIT) tags, which provide a unique ID code for each individual. When marked individuals are within range of the antenna, the reader logs the ID and time of the visit.&lt;/p&gt;
+&lt;h4 id=&#34;how-do-you-use-rfid-to-study-birds&#34;&gt;How do you use RFID to study birds?&lt;/h4&gt;
+&lt;p&gt;The RFID networks used in most ornithogical research have relatively small read ranges (~2-6cm). As a result, use of this technology requires placing the antenna and reader in a location that birds are likely to visit, including nest boxes and bird feeders. For our research, we have specially chosen several species that regularly visit bird feeders during either their breeding or winter period. This allows us to locate the RFID antennas on the feeder perches, ensuring that individuals will be within a few centimeters of the antenna while they eat. The reader and a small battery are housed under or next to the feeder in a waterproof box and a solar panel is attached to the feeder stand to provide continuous power.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-rfid-feeder&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/media/feeder.jpg&#34; data-caption=&#34;RFID feeder&#34;&gt;
+
+
+  &lt;img src=&#34;/media/feeder.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    RFID feeder
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Because PIT tags need no battery, they are small and widely available as bird bands. Once the RFID network is installed on a feeder, we band individual birds using that feeder, giving each bird an aluminum USGS band and a PIT band. Both bands have a unique numeric code (physically etched into the metal band, stored as part of the transponder in the PIT band), allowing us to individually identify each bird when we encounter it at future points in time. &lt;strong&gt;Please be aware that all banding activities, including capturing birds and attaching auxillary leg bands, are carried out by trained professionals with all state and federal permits&lt;/strong&gt;. After a bird is banded, it is released unharmed and the reader will log every subsequent visit that individual makes to the feeder. These &amp;ldquo;encounter histories&amp;rdquo; provide data that can be used to estimate ecological parameters that are central to our research questions (e.g., survival probability, arrival/departure dates, activity levels, etc.) using well-established statistical models.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-pit-tagged-lazuli-bunting-photo-by-kim-savides&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/media/rfid_lazb.jpg&#34; data-caption=&#34;PIT tagged Lazuli Bunting. Photo by Kim Savides&#34;&gt;
+
+
+  &lt;img src=&#34;/media/rfid_lazb.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    PIT tagged Lazuli Bunting. Photo by Kim Savides
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;rfid-projects-in-our-lab&#34;&gt;RFID projects in our lab&lt;/h2&gt;
+&lt;h4 id=&#34;painted-buntings&#34;&gt;Painted Buntings&lt;/h4&gt;
+&lt;p&gt;In the summer of 2019, we installed RFID feeders at several of long-term Painted Bunting (&lt;em&gt;Passerina ciris&lt;/em&gt;) field sites in Florida, Georgia, South Carolina, and North Carolina. Over the next two summers, these feeders logged nearly 100,000 unique visits by about 150 tagged individuals. In the future, we plan to expand this feeder network within and beyond these sites to better understand survival, phenology, and density of Painted Buntings within the eastern population.&lt;/p&gt;
+&lt;h4 id=&#34;lazuli-buntings&#34;&gt;Lazuli Buntings&lt;/h4&gt;
+&lt;p&gt;Like Painted Buntings, the closely-related Lazuli Bunting (&lt;em&gt;Passerina amoena&lt;/em&gt;) is one of the most charismatic migratory birds in the American West. In autumn, individuals migrate to northern Mexico where they molt during monsoonal rains before moving further south for the winter. Lazuli Buntings are also one of the most common migratory songbirds breeding in Cache Valley, Utah and can be found across a wide elevational range, from the valley floor (~1400m) to the high peaks of the Bear River Range (~3000m). During the spring and summer of 2019, we established a network of RFID feeders at 3 sites that span this elevational gradient. During the summers of 2019 and 2020, these feeders recorded nearly 400,000 unique visits by several hundred banded buntings. We are currently using these data to estimate elevational variation in the migration phenology of male and female buntings.&lt;/p&gt;
+&lt;h4 id=&#34;black-rosy-finches&#34;&gt;Black Rosy-finches&lt;/h4&gt;
+&lt;p&gt;Black Rosy-finches (&lt;em&gt;Leucosticte atrata&lt;/em&gt;) are one of three species of Rosy-finch in North America. Utah is at the heart of the Black Rosy-finch distribution. Due to their small range and inaccessible breeding habitat, Black Rosy-finches are one of the least-studied birds in North America. As such, the future well-being of Rosy-finches is hampered by an absence of even basic information about the demography, distribution, and movement of this species. Filling crucial data gaps about Black Rosy-finches distribution and abundance is especially critical to ensure that their populations can be sustained in the face of habitat degradation and climate change.&lt;/p&gt;
+&lt;p&gt;In winter, flocks of Black Rosy-finches and Gray-crowned Rosy-finches (&lt;em&gt;L. tephrocotis&lt;/em&gt;) visit bird feeders throughout Utah&amp;rsquo;s mountains, making them amenable to study using RFID technology. Bird feeders maintained at ski areas and mountain homes provide important sources of food for wintering Rosy-finches as well as convenient study sites. To fill the data gaps that currently limit effective management of Black Rosy-finch populations, a voluntary public/private partnership of biologists developed the Utah Black Rosy-finch Study. Over the past two winters, we have banded almost two hundred rosy-finches and feeders have logged tens of thousands of visits. These preliminary data are already providing exciting insights into the ecology of these species, including documenting one Gray-crowned Rosy-finch that visited two feeders separately by nearly 50km in a single day! For more information about this research, see the &lt;a href=&#34;project/blrf.md&#34;&gt;Black Rosy-finch&lt;/a&gt; project page.&lt;/p&gt;
+&lt;h2 id=&#34;further-information&#34;&gt;Further information&lt;/h2&gt;
+&lt;p&gt;Bonter, D. N. &amp;amp; Bridge, E. S. 2011. Applications of radio frequency identification (RFID) in ornithological research: A review. &lt;em&gt;Journal of Field Ornithology&lt;/em&gt; 82, 1–10.&lt;/p&gt;
+&lt;p&gt;Bridge, E. S. &amp;amp; Bonter, D. N. 2011. A low-cost radio frequency identification device for ornithological research. &lt;em&gt;Journal of Field Ornithology&lt;/em&gt; 82, 52–59.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

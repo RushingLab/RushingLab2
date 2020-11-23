@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>climate change | Rushing Population Ecology Lab</title>
+    <link>/tag/climate-change/</link>
+      <atom:link href="/tag/climate-change/index.xml" rel="self" type="application/rss+xml" />
+    <description>climate change</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>climate change</title>
+      <link>/tag/climate-change/</link>
+    </image>
+    
+    <item>
+      <title>Climate change</title>
+      <link>/project/climatechange/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/climatechange/</guid>
+      <description>&lt;p&gt;I have several on going projects focused on developing quantitative methods to measure the impacts of climate change on the distributions of North American birds and to incorporate this information into conservation decisions made by federal agencies. A major aim of this research is using data from the North American Breeding Bird Survey to create multi-species indices of climate-induced range shifts. This approach uses dynamic occupancy models to estimate range-wide occupancy and extinction/colonization rates for individual species. By accounting for both non-equilibrium dynamics and imperfect detection, these models provide robust estimates of the velocity, magnitude, and direction of range shifts that have occurred in recent decades. Results from individual species can be combined into composite metrics, which allow stronger inferences about climate change impacts and can be used to test hypotheses about the traits that influence sensitivity to climate change.&lt;/p&gt;
+&lt;p&gt;Many federal agencies are tasked with protecting North America’s avian diversity and these agencies must make sound decisions about when and where to invest resources to achieve their legal mandates. Climate change adds a major source of uncertainty to these decisions because the places that are important for conservation now may differ from the critical locations in the future. Along with my work on modeling climate-driven range shifts, I am interested in incorporating climate change into management decisions and research prioritization to improve migratory bird conservation in the face of climate change.&lt;/p&gt;
+&lt;h3 id=&#34;relevant-publications-pdf-available-upon-request&#34;&gt;Relevant publications (pdf available upon request):&lt;/h3&gt;
+&lt;p&gt;Rushing, C.S., Royle, J.A., Ziolkowski, D., Pardieck, K., (2019). Estimating spatially and temporally complex range dynamics when detection is imperfect. &lt;em&gt;Scientific Reports&lt;/em&gt; 9(1), 1-9.&lt;/p&gt;
+&lt;p&gt;Rushing, C. S., Royle, J. A., Ziolkowski, D. J., &amp;amp; Pardieck, K. L. (2020). Migratory behavior and winter geography drive differential range shifts of eastern birds in response to recent climate change. &lt;em&gt;Proceedings of the National Academy of Sciences&lt;/em&gt; 117(23), 12897-12903.&lt;/p&gt;
+&lt;p&gt;Rushing, C. S., Rubenstein, M., Lyons, J. E., &amp;amp; Runge, M. C. (2020). Using value of information to prioritize research needs for migratory bird management under climate change: a case study using federal land acquisition in the United States. &lt;em&gt;Biological Reviews&lt;/em&gt; 95(4), 1109-1130.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

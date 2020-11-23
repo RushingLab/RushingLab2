@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Features | Rushing Population Ecology Lab</title>
+    <link>/features/</link>
+      <atom:link href="/features/index.xml" rel="self" type="application/rss+xml" />
+    <description>Features</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 12 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Features</title>
+      <link>/features/</link>
+    </image>
+    
+    <item>
+      <title>Code of conduct</title>
+      <link>/features/coc/</link>
+      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/features/coc/</guid>
+      <description>&lt;p&gt;All members of the Rushing lab are expected to behave in a manner that promotes a healthy, inclusive working environment. This includes:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Be kind to others. Treat members of the lab as you would want to be treated.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Keep all communication appropriate for a professional audience. Sexual or discriminatory language and imagery is not appropriate at any time.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Do your part to create a respectful environment for everyone. Every member of this lab has something to contribute.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Remember that your actions can inadvertently be injurious to others even if you do not intend them to be. If someone calls you out on your behavior, please listen to them, apologize, and learn from the encounter.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Discrimination or harassment of any kind will not be tolerated. This includes but is not limited to discrimination based on: racial or ethnic background, citizenship status, religion, political affiliation, gender identity/expression, sexual orientation, dis/ability status, or appearance.&lt;/p&gt;
+&lt;p&gt;Any instances of inappropriate behavior should be reported to Clark Rushing or the the appropriate authorities immediately. All communications will be treated as confidential. Any lab member that is asked to stop inappropriate behavior is expected to comply immediately. Failure to comply will result referral to the appropriate University authority.&lt;/p&gt;
+&lt;h2 id=&#34;sexual-harassment-and-assualt&#34;&gt;Sexual harassment and assualt&lt;/h2&gt;
+&lt;p&gt;Utah State University takes issues related to sexual harassment and assault very seriously. From the USU &lt;a href=&#34;https://www.usu.edu/sexual-assault/index&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;sexual harassment webpage&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Sexual harassment is unwelcome sexual advances, requests for sexual favors, and other verbal or physical conduct of a sexual nature when:&lt;br&gt;
+- Submission to such conduct is made either explicitly or implicitly a term or condition of an individual&amp;rsquo;s employment or status as a student in a course, program or activity.&lt;br&gt;
+- Submission to or rejection of such conduct by an individual is used as the basis for employment or academic decisions affecting an individual.&lt;br&gt;
+- Such conduct has the purpose or effect of unreasonably interfering with an individual&amp;rsquo;s work or academic performance, or of creating an intimidating, hostile or offensive environment for working or learning&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Sexual assault is defined as:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Any type of sexual contact that occurs without the explicit consent of the recipient. It can range from unwanted sexual touching to rape.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;You can report cases of sexual assault or harassment by clicking on the red &lt;code&gt;File a Report&lt;/code&gt; button &lt;a href=&#34;https://www.usu.edu/sexual-assault/index&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Please note that when reporting incidents of sexual assault or harassment, USU offers amnesty for the drug and alcohol student code violations.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The material in this document was inspired by and borrows from the &amp;ldquo;&lt;a href=&#34;https://github.com/BahlaiLab/Policies&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bahlai Lab Policies&lt;/a&gt;&amp;rdquo; by Dr. Christie Bahlai and her lab group, used under CC BY 4.0. The Rushing Lab policies are licensed under CC BY 4.0 by Dr. Clark Rushing&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
