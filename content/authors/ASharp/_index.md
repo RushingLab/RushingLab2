@@ -37,7 +37,7 @@ social:
 superuser: true
 title: Andrew Sharp
 user_groups:
-- People
+- Alumni
 ---
 
 I’m originally from Virginia, where I graduated from James Madison University in the beautiful Shenandoah Valley. I’ve worked with a variety of passerines, including black-throated blue warblers and American redstarts, although my latest field job was a foray into the world of raptor banding. My interests include birding, playing soccer, and watching hockey. I’m pursuing an M.S and will be studying the migratory connectivity of Painted Buntings. As part of this project, I will be deploying and recapturing geolocators at multiple field sites from Florida up the coast to North Carolina.
