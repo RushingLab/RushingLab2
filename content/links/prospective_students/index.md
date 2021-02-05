@@ -18,9 +18,9 @@ image:
   preview_only: false
 
 ---
-Currently, I do not have funding to recruit graduate students for my lab, though that will likely change in the near future. Check back here for announcements about future opportunities.
+I am currently recruiting a PhD student to lead research using the Motus animal tracking network to study the migratory ecology and demography of a grassland bird of high conservation concern, the Sprague’s Pipit. The student will be co-advised by myself and Dr. Andy Boyce at the Smithsonian Migratory Bird Center. For more information, please see {{< staticref "media/sppi_phd_ad.pdf" "newtab" >}}here{{< /staticref >}}.
 
-In the meantime, students with their own funding are welcome to reach out to me about joining the lab. I am happy to advise students working on a variety of topics related to ornithology, quantitative ecology, and conservation.  
+As always, students with their own funding are welcome to reach out to me about joining the lab. I am happy to advise students working on a variety of topics related to ornithology, quantitative ecology, and conservation.  
 
 ### A note on quantitative skills for prospective students
 
