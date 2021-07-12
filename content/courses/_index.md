@@ -6,6 +6,10 @@ layout: docs
 title: Courses
 ---
 
-[Plant and Animal Population Ecology](https://rushinglab.github.io/WILD3810/)
+### Current courses
+
+[Experimental Methods in Natural Resources Research](https://rushinglab.github.io/FANR6750/)
+
+### Past courses
 
 [Applied Bayesian Analysis for Ecological Data](https://rushinglab.github.io/WILD6900/)

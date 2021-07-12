@@ -31,18 +31,20 @@ Any instances of inappropriate behavior should be reported to Clark Rushing or t
 
 ## Sexual harassment and assualt
 
-Utah State University takes issues related to sexual harassment and assault very seriously. From the USU [sexual harassment webpage](https://www.usu.edu/sexual-assault/index):
+The University of Georgia takes issues related to sexual harassment and assault very seriously. From the UGA [non-discrimination and anti-harassment policy webpage](https://eoo.uga.edu/policies-resources/ndah-policy/):
 
-> Sexual harassment is unwelcome sexual advances, requests for sexual favors, and other verbal or physical conduct of a sexual nature when:  
-    - Submission to such conduct is made either explicitly or implicitly a term or condition of an individual's employment or status as a student in a course, program or activity.  
-    - Submission to or rejection of such conduct by an individual is used as the basis for employment or academic decisions affecting an individual.   
-    - Such conduct has the purpose or effect of unreasonably interfering with an individual's work or academic performance, or of creating an intimidating, hostile or offensive environment for working or learning  
+> **Sexual Misconduct**:  An umbrella term that is used to describe a wide range of prohibited sexual conduct as described below, including sexual harassment. Sexual misconduct can occur regardless of the relationship, position or respective sex, sexual orientation, or gender identity of the parties. Same-sex harassment violates this Policy, as does harassment by a student of an employee or a subordinate employee of their supervisor.
 
-Sexual assault is defined as:
-> Any type of sexual contact that occurs without the explicit consent of the recipient. It can range from unwanted sexual touching to rape.
+> **Sexual Harassment** (Other than Student on Student): Unwelcome verbal, nonverbal, or physical conduct, based on sex (including gender stereotypes), that may be any of the following:
+    - Implicitly or explicitly a term or condition of employment or status in a course, program, or activity;
+    - A basis for employment or educational decisions;
+    - Is sufficiently severe, persistent, or pervasive to interfere with one’s work or educational performance creating an intimidating, hostile, or offensive work or learning environment, or interfering with or limiting one’s ability to participate in or to benefit from an institutional program or activity; or
+    - Determined by a Reasonable Person to be so severe, pervasive, and objectively offensive that it effectively denies a person equal access to a University education program or activity in violation of Title IX.
+    
+> **Sexual Harassment** (Student on Student): Unwelcome verbal, nonverbal, or physical conduct based on sex (including gender stereotypes), determined by a Reasonable Person to be so severe, pervasive, and objectively offensive that it effectively denies a person equal access to participate in or to benefit from an institutional education program or activity.
 
-You can report cases of sexual assault or harassment by clicking on the red `File a Report` button [here](https://www.usu.edu/sexual-assault/index).  
+For more information about how to report a sexual assault incident and resources if you have been the victim of sexual assault, please refer to the University's [Preventing and Responding to Sexual Assault](https://safeandsecure.uga.edu/sexual-assault/) website.  
 
-Please note that when reporting incidents of sexual assault or harassment, USU offers amnesty for the drug and alcohol student code violations. 
+Please note that when reporting incidents of sexual assault or harassment, UGA [offers amnesty](https://eoo.uga.edu/policies-resources/title-ix-sex-discrimination-harassment/sexual-assault-response-protocol/) for the drug and alcohol student code violations. 
 
 > The material in this document was inspired by and borrows from the "[Bahlai Lab Policies](https://github.com/BahlaiLab/Policies)" by Dr. Christie Bahlai and her lab group, used under CC BY 4.0. The Rushing Lab policies are licensed under CC BY 4.0 by Dr. Clark Rushing

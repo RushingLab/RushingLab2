@@ -15,6 +15,7 @@ image:
   focal_point: "Center"
   preview_only: false
 ---
+
 No matter where you are in your career, academia can feel a bit like back-country orienteering. You pick a destination far off in the distance, make a plan for getting there, and then set off into the wilderness. In some places, especially early on, there may be well-worn trails. But as you go further, you will increasingly have to blaze your own path. The going is often tough. There may be times when you need to stop, figure out where you are, and reassess your plans. But with planning and a good support system, most destinations can be reached and the journey will be worth the effort. Although cheesy, I think this metaphor provides a good basis for my mentoring philosophy:    
 
 ## My role 
@@ -29,15 +30,14 @@ Post-docs are at a transitional phase in their career: still under the supervisi
 
 ## Graduate students
 
-The expectations for graduate students enrolled in the Department of Wildland Resources' MS and PhD programs are outlined in the [graduate student handbook](https://qcnr.usu.edu/wild/graduate/current/2018-19graduatehandbook.pdf). This document also contains useful information and advice for being successful in this department. Additional resources for completing your degree, including a checklist of degree completion requirements for both the MS and PhD programs, can be found on the Department's [website](https://qcnr.usu.edu/wild/graduate/current/program_resources). This checklist will serve as the primary guide for developing individual expectations within the lab.
+The expectations for graduate students enrolled in Warnell's MS and PhD programs are outlined in the [graduate student handbook](https://www.warnell.uga.edu/graduate/current-students/advisory-committee-and-program-study). This document also contains useful information and advice for being successful in this department. Additional resources for completing your degree, including a checklist of degree completion requirements for both the MS and PhD programs, can be found on the School's [website](https://www.warnell.uga.edu/sites/default/files/inline-files/PHD%20Checklist.pdf ). This checklist will serve as the primary guide for developing individual expectations within the lab.
 
 Within the degree completion requirements, I recognize that individual students have different expectations and objectives both during and after graduate school. My role as a mentor is to help you formulate and meet those objectives. For this reason, I will meet with each student in my lab early in your first semester and then on a regular basis to discuss expectations, goals, and progress. During these meetings we will develop a mentoring plan that establishes shared objectives, timelines, and deliverables. This plan may (and will likely) change over the course of your graduate career but will serve as blueprint for us to establish your personal goals and a defined path for progress and evaluation. 
 
 ## Undergraduate students
 
-Getting involved in on-going research projects or establishing independent projects with the help of a faculty mentor are great ways for undergraduates to gets hands-on research experience, deepen their understanding of scientific concepts, and become more competitive for jobs or graduate school. Utah State has the second oldest [undergraduate research program](http://rgs.usu.edu/undergradresearch/) in the nation and provides several ways to get involved in research on campus (and to [obtain funding](http://rgs.usu.edu/undergradresearch/fund/)!). The University's [Honors Program](https://honors.usu.edu/index) also provides opportunities for undergraduates to become involved in research. 
-
-All of these programs require a faculty mentor and I am happy to help interested students plan, implement, and communicate independent research projects. I plan to establish several local field projects that focus on the ecology of birds in and around Cache Valley. These projects could provide numerous opportunities for independent research by students interested in ornithology, population ecology, behavior, and statistical modeling. If you are interested in the work done my lab and would like to get involved in undergraduate research, please contact me about research and funding opportunities. 
+Getting involved in on-going research projects or establishing independent projects with the help of a faculty mentor are great ways for undergraduates to gets hands-on research experience, deepen their understanding of scientific concepts, and become more competitive for jobs or graduate school. 
+I am happy to help interested students plan, implement, and communicate independent research projects. I plan to establish several local field projects that focus on the ecology of birds in and around Athens. These projects could provide numerous opportunities for independent research by students interested in ornithology, population ecology, behavior, and statistical modeling. If you are interested in the work done my lab and would like to get involved in undergraduate research, please contact me about research and funding opportunities. 
 
 ## <a id="work_life_balance"></a>A note on work-life balance
 

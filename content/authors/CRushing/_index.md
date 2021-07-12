@@ -17,10 +17,10 @@ interests:
 - Population Ecology
 - Ornithology
 organizations:
-- name: Utah State University
-  url: https://usu.edu
-- name: Department of Wildland Resources
-  url: https://qcnr.usu.edu/wild/index
+- name: University of Georgia
+  url: https://uga.edu
+- name: Warnell School of Forestry and Natural Resources
+  url: https://www.warnell.uga.edu/
 role: Assistant Professor
 social:
 - icon: envelope

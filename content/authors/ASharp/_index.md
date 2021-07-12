@@ -40,4 +40,4 @@ user_groups:
 - Alumni
 ---
 
-I’m originally from Virginia, where I graduated from James Madison University in the beautiful Shenandoah Valley. I’ve worked with a variety of passerines, including black-throated blue warblers and American redstarts, although my latest field job was a foray into the world of raptor banding. My interests include birding, playing soccer, and watching hockey. I’m pursuing an M.S and will be studying the migratory connectivity of Painted Buntings. As part of this project, I will be deploying and recapturing geolocators at multiple field sites from Florida up the coast to North Carolina.
+Andrew is currently a Research Wildlife Biologist in the Ecological Resources Branch, Environmental Laboratory, U.S. Army Engineer Research and Development Center. Andrew works on a team that helps make sure wildlife populations are protected on military installations and Army Corps of Engineers civil projects. As a MS student in the Rushing Lab, Andrew studied the migratory connectivity of Painted Buntings using data from light-level geolocators.
