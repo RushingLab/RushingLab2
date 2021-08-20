@@ -15,6 +15,7 @@ highlight_name: false
 interests:
 - Quantitative Ecology
 - Population Ecology
+- Movement Ecology
 - Ornithology
 organizations:
 - name: University of Georgia
