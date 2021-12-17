@@ -37,7 +37,7 @@ social:
 superuser: true
 title: Kim Savides
 user_groups:
-- People
+- Alumni
 ---
 
 I am originally from NE Ohio where I watched neotropical migrating songbirds every sping. Seeing the diversity and timing of migrants inspired me to pursue avian research. I graduated with a BS in Wildlife Science form SUNY-ESF in Syracuse, NY and I have since worked on a variety of avian research projects ranging from point counts, nest searching, passerine banding, resighting marked birds, and behavioral observations. I am a NABC (North American Banding Council) certified bird bander which has enabled me to serve at different bird banding stations across the country. My research interests lie in migratory connectivity and migration timing of North American songbirds. I am currently pursuing my MS here at USU focusing on the use of RFID (radio frequency identification) leg bands to estimate migratory phenology in two species, the Lazuli Bunting and Black Rosy-finch.
