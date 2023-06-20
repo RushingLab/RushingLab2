@@ -36,7 +36,7 @@ social:
 superuser: true
 title: Josiah Lavender
 user_groups:
-- People
+- Alumni
 ---
 
 I grew up in Watkinsville, Georgia, where I became interested in birds when I was six years old. My passion for birds and wildlife led me to pursue a B.S. in Ecology at the University of Georgia, which I plan to complete in the spring of 2023. During the summer of 2022, I will be studying the breeding Ecology of Painted Buntings on Little St. Simon’s Island, GA. My research will be part of an ongoing study led by Dr. Rushing aimed at understanding the entire annual cycle of Painted Buntings. Specifically, I will be studying the influence of multiple environmental factors on bunting breeding success. After finishing undergrad, I plan to apply to several graduate study programs with a plan study neotropical migrants on their wintering grounds. 
