@@ -13,8 +13,9 @@ email: ""
 highlight_name: false
 interests:
 - Life history
+- Population ecology
 - Ornithology
-- Conservation
+- Spatial ecology
 organizations:
 - name: University of Georgia
   url: https://uga.edu
