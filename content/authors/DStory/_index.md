@@ -37,7 +37,7 @@ social:
 superuser: true
 title: Destinee Story
 user_groups:
-- People
+- Alumni
 ---
 
 I grew up in central Georgia always being drawn to nature. I completed my BS degree in Wildlife and Natural Resources at Abraham Baldwin Agricultural College (ABAC) in Tifton, GA. While there, I developed my interests in threatened/endangered species and had the opportunity to intern with the North Carolina WRC bat biologist completing summer mist netting surveys across the Smoky Mountains. While attending classes at ABAC I also worked with the Georgia Forestry Commission as a Wildfire Response Dispatcher. Once I graduated in 2019, I started an internship at Tall Timbers Research Station in Tallahassee, FL working in the Game Bird Lab radio tracking Northern Bobwhite Quail. I then started full time at Tall Timbers Stoddard Bird Lab working with many different species such as gopher tortoises, red-cockaded woodpeckers, diamondback rattle snakes, brown-headed nuthatches, and even black rails along Florida's Gulf Coast. I am currently perusing my MS at UGA studying movement and ecology of the common ground dove as a joint project between Tall Timbers Game Bird and Stoddard Bird labs.

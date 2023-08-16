@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Clark S. Rushing | Rushing Avian Ecology Lab</title>
+    <title>Clark S. Rushing | Rushing Population Ecology Lab</title>
     <link>/author/clark-s.-rushing/</link>
       <atom:link href="/author/clark-s.-rushing/index.xml" rel="self" type="application/rss+xml" />
     <description>Clark S. Rushing</description>
@@ -10,6 +10,11 @@
       <url>/media/LSSI.jpg</url>
       <title>Clark S. Rushing</title>
       <link>/author/clark-s.-rushing/</link>
+    </image>
+    
+  </channel>
+</rss>
+>/author/clark-s.-rushing/</link>
     </image>
     
   </channel>

@@ -10,7 +10,7 @@ interests:
 - Ornithology
 organizations:
 - name: University of Georgia
-  url: https://usu.edu
+  url: https://uga.edu
 - name: Warnell School of Forestry and Natural Resources
   url: https://www.warnell.uga.edu/
 role: Assistant Professor
