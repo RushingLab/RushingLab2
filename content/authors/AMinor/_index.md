@@ -20,7 +20,7 @@ organizations:
 - name: University of Georgia
   url: https://uga.edu
 - name: Warnell School of Forestry and Natural Resources
-  url: https://qcnr.usu.edu/wild/index
+  url: https://warnell.uga.edu/
 role: Post-doc
 social:
 # - icon: envelope
