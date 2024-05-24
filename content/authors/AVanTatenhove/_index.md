@@ -37,7 +37,7 @@ social:
 superuser: true
 title: Aimee Van Tatenhove
 user_groups:
-- People
+- Alumni
 ---
 
 I’m a PhD student and a recipient of the Fritz Knopf Fellowship, studying American white pelican demography, movement, and historical population drivers. I’m interested primarily in the population of white pelicans west of the Rocky Mountains, with a focus on white pelicans in the Great Salt Lake. I grew up in northwestern Wisconsin, but moved to the east coast to graduate with a B.S. from Cornell University in 2014. Some of my previous work includes seabird nesting ecology and impacts of climate change on birds. I’ve worked with a wide variety of bird species, including Kittlitz’s murrelets, streaked shearwaters, and American robins, with field sites in New Hampshire, Alaska, and Japan. 
