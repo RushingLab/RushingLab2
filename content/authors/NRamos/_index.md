@@ -37,7 +37,7 @@ social:
 superuser: true
 title: Natalie Ramos
 user_groups:
-- People
+- Alumni
 ---
 
 I’m a master’s student studying nesting ecology, habitat use, and movement of Chuck-will’s-widow in coastal Georgia. I grew up in Miami, across the street from Everglades National Park, and being so close to this natural resource piqued my interest in wildlife.

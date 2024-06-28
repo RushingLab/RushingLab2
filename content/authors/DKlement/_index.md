@@ -20,7 +20,7 @@ organizations:
   url: https://uga.edu
 - name: Warnell School
   url: https://warnell.uga.edu
-role: MS student
+role: PhD student
 social:
 # - icon: envelope
 #   icon_pack: fas

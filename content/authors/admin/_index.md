@@ -13,7 +13,7 @@ organizations:
   url: https://uga.edu
 - name: Warnell School of Forestry and Natural Resources
   url: https://www.warnell.uga.edu/
-role: Assistant Professor
+role: Associate Professor
 social:
 - icon: envelope
   icon_pack: fas
