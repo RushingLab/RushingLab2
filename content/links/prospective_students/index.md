@@ -19,9 +19,7 @@ image:
 
 ---
 
-### PhD Opportunity
-
-A PhD position is available in the Chandler and Rushing Labs at the University of Georgia to assess how dispersal and climate change interact to affect fitness and species distributions of songbirds in the southern Appalachian Mountains. The student will design field experiments and help lead field studies of several species with trailing-edge populations in the study area, including Canada Warbler, Black-throated Blue Warbler, Veery, and several others. The four-year NSF grant includes funding for the deployment of Motus sensor stations, nodes, and tags to detect and model natal dispersal movements of focal species. More than twenty years of data on dispersal and demography are also available as part of a long-term study of the dynamics of trailing-edge populations. Applicants should have an MS degree in wildlife ecology or a related field, strong quantitative skills, and passerine field experience. Experience with deployment of Motus tags (or similar) and receivers is preferred. The anticipated start date is August 2024. Tuition will be waived and an assistantship of approximately $30,000/yr for four years will be provided. Send a single PDF including a cover letter, CV, and contact information for three references to Dr. Richard Chandler (rchandler@warnell.uga.edu) and Dr. Clark Rushing (clark.rushing@uga.edu) by November 13, 2023. 
+I am not currently accepting new graduate students at this time. Please check back here for future opportunities.
 
 ### A note on quantitative skills for prospective students
 
